@@ -20,7 +20,7 @@ This app downloads and stores images from Flickr. The app will allow users to dr
   </td>
   </tr>
 
-<br/>
+
 # Great frameworks utilized in this app: </br>
 1. CoreData: persist or cache data and support undo on a single device. </br>
 2. UIKit: construct and manage a graphical, event-driven user interface for your iOS or tvOS app. </br>
