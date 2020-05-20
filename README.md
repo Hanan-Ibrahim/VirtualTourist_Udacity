@@ -3,6 +3,7 @@ This app downloads and stores images from Flickr. The app will allow users to dr
  <br /> 
 # VirtualTourist_Udacity Snapshots & Demo
 • App demo
+
 <img src="Photos/Demo.gif" width="225"/> <br/>
 <table>
  <tr>
