@@ -3,12 +3,11 @@ This app downloads and stores images from Flickr. The app will allow users to dr
  <br /> 
 # VirtualTourist_Udacity Snapshots & Demo
 <img src="Photos/Demo.gif" width="225"/> <br/>
-
 • Upon launching the app: User Instructions
-<img src="Photos/1.PNG" width="225"/>
+<img src="Photos/1.PNG" width="225"/><br/>
 • Dropping the pins
-<img src="Photos/2.PNG" width="225"/>
+<img src="Photos/2.PNG" width="225"/><br/>
 • Editing mode
-<img src="Photos/3.PNG" width="225"/>
+<img src="Photos/3.PNG" width="225"/><br/>
 • Fetched Images
-<img src="Photos/4.PNG" width="225"/>
+<img src="Photos/4.PNG" width="225"/><br/>
