@@ -9,20 +9,12 @@ This app downloads and stores images from Flickr. The app will allow users to dr
     <td> <img src="Photos/1.PNG"  alt="1" width = 255px></td>
     <td><img src="Photos/2.PNG" alt="2" width = 255px></td>
       <td><img src="Photos/3.PNG" alt="3" width = 255px></td>
-      <td><img src="Photos/4.PNG" align="right" alt="4" width = 255px>
+      <td><img src="Photos/4.PNG"  alt="4" width = 255px>
    </tr> 
    <tr>
-    <td> • Launching </td>
-    <td> • Launching </td>
-    <td> • Launching </td>
-    <td> • Launching </td>
+    <td> • Launching</td>
+    <td> • Dropping the pins</td>
+    <td> • Editing mode</td>
+    <td> • Fetched Images</td>
   </td>
   </tr>
-  
-
-                           • Dropping the pins  <br/>
-
-<img src="Photos/1.PNG" width="225"/ >        <img src="Photos/2.PNG" width="225"/> <br/>
-
- • Editing mode                      • Fetched Images <br/>
-  <img src="Photos/3.PNG" width="225"/>     <img src="Photos/4.PNG" width="225"/> <br/>
