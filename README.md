@@ -19,3 +19,9 @@ This app downloads and stores images from Flickr. The app will allow users to dr
       <td><img src="Photos/4.PNG"  alt="4" width = 255px>  
   </td>
   </tr>
+
+# Great frameworks utilized in this app: </br>
+1. CoreData: persist or cache data and support undo on a single device. </br>
+2. UIKit: construct and manage a graphical, event-driven user interface for your iOS or tvOS app. </br>
+3. MapKit: display map or satellite imagery from your app's interface, call out points of interest, and determine placemark information for map coordinates. </br>
+
